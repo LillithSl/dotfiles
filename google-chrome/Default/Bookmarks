@@ -1,0 +1,41 @@
+{
+   "checksum": "75855c51794672b506decb71918a2fc0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13217170242423960",
+            "guid": "4826472f-b402-473b-a157-5a2e52cd6c06",
+            "id": "5",
+            "name": "Blondie Porn Pics & Porn GIFs",
+            "type": "url",
+            "url": "https://www.imagefap.com/pictures/8351880/Blondie"
+         } ],
+         "date_added": "13219865842189369",
+         "date_modified": "13217170242423960",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13219865842189373",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13219865842189376",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CugBCscBCIiBAhLAARKMAQgCEk4KBgoCYm0QARAzGhIJgJWP382YBQAhgJWP382YBQAiFAnaBrvuzZgFABAEGRI3vfe6s2SgMhgKFggCEZ4/J/DNmAUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAlY/fzZgFACGAlY/fzZgFADIYChYIAhEKMyjwzZgFABgAIQAAAAAAAAAAIAAyH294eF9OYVZ1QlpNU0FIa1gxRW4yWHZhQ0RuTEU3QllIx9eW4uwtcMfXluLsLRIAIAEqGEJZZU5xMmNFb0pBT0NLazIxeEFoZUE9PRLGAQgDEsEBEmZaOkFEcXRBWnc4Zk43MHZuNDlGbTRsS1JlVWJWaGYxRGFFZWtUTCtPYU9mYmdCeG4rdm1ZWnU5b1ZCYnB0aUljc1NabHVodWZlKzNYTTgyRUkvWnVzcUlFdWhKdnQza1VCS3dRPT0YACAAKAAwyca29d6Z5gI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAAIVO9Lzlzwbhbogb6p9iepu3t7EviltdalLCyfxKJAggFEoQCEqYBWjpBRHF0QVp3U3ZYY0ovQlorYjNNSVNJRkxxc3k0OUtrOUcwVmdWOFdYcFhyU0VYU0JTdmsycWl2ZHZaYlNBV3ZOaGV3TkI3bUxiamF2cDhwVkxJdi8wajNHK3BQd3BRNzNaQjJOUFgzbmpBeEpNdUtKRU16RkNxdkZaNVVlWmFaVHFWQlByMWJWanBUZlFWajc2VjBNRlNFNmkyUDd1NmpST2c9PRgAIAIoAjDZjez13pnmAjje6K786C1Az87M5ewtShw1UnQwM0VNczV1WS9rNm9oR2dsTlJlc2grTFE9Wh4iHGIxRDBUU3hrWkx5RUp3anQxYzk3S3F6aDlFRT0SxgEIAhLBARJmWjpBRHF0QVp3V2dlTVNNMVlIY1QxYWNxM2k4bXRzbnN1UnFQQTh4SlFuaWZ0WkpkOWNzbFVVcXhhTmFRRWsvUDBSaWZtSGV6OEhtQndUdGFKdzA4dWV3NlczMVZYb3lPMjZWZz09GAAgACgAMMnGtvXemeYCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVomIiSAAAAAAAAAAMM4u+undaSJ7qqMmY2Tw6NOBbEAlCDNhSYhxn8SrgEIARKpARJOWjpBRHF0QVp3bEkvM1JEQW1KSXRFWjRDN2IvTmlzNVB2cEFNMzBvV284N1dmbWszSnlnRU5mekp2SlhqaXUyeVBWZzBBbXBaVjVQUkVpGAAgACgAMMnGtvXemeYCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVomIiSAAAAAAAAAAMeE6amTfckYBZbWG70WgnMvScgST91OKnqLRX8=",
+   "version": 1
+}

@@ -1,0 +1,12 @@
+2019/12/04-16:36:36.657 473 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/12/04-16:36:36.658 473 Recovering log #15
+2019/12/04-16:36:36.659 473 Reusing old log Session Storage/000015.log 
+2019/12/04-16:43:56.928 749 Level-0 table #20: started
+2019/12/04-16:43:57.030 749 Level-0 table #20: 21678 bytes OK
+2019/12/04-16:43:57.032 749 Delete type=0 #15
+2019/12/04-16:44:37.545 8bb Level-0 table #22: started
+2019/12/04-16:44:37.549 8bb Level-0 table #22: 16384 bytes OK
+2019/12/04-16:44:37.552 8bb Delete type=0 #19
+2019/12/04-16:58:11.570 a1c Level-0 table #24: started
+2019/12/04-16:58:11.575 a1c Level-0 table #24: 16384 bytes OK
+2019/12/04-16:58:11.576 a1c Delete type=0 #21

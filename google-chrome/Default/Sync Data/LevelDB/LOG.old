@@ -1,0 +1,6 @@
+2019/12/04-09:27:18.141 471 Reusing MANIFEST /home/lilith/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/12/04-09:27:18.144 471 Recovering log #33
+2019/12/04-09:27:18.145 471 Reusing old log /home/lilith/.config/google-chrome/Default/Sync Data/LevelDB/000033.log 
+2019/12/04-09:38:28.908 b1f Level-0 table #38: started
+2019/12/04-09:38:28.913 b1f Level-0 table #38: 97241 bytes OK
+2019/12/04-09:38:28.915 b1f Delete type=0 #33
